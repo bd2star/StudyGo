@@ -1,0 +1,19 @@
+{
+  "language": "zh-hans",
+  "root": "./docs",
+  "structure" : {
+    "readme" : "myIntro.md"
+  },
+  "pdf": {
+    "pageNumbers": true,
+    "toc": "chapter",
+    "fontSize": 12,
+    "customSize": "6in x 9in",
+    "margin": {
+      "right": 62,
+      "left": 62,
+      "top": 56,
+      "bottom": 56
+    }
+  }
+}
