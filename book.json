@@ -1,8 +1,16 @@
 {
+  "title": "书籍目录",
+  "author": "zhangbaoxing",
+  "description": "书籍目录，记录一些工作和学习中的笔记",
   "language": "zh-hans",
-  "root": "./docs",
+  "root": "./content",
   "structure" : {
     "readme" : "myIntro.md"
+  },
+  "links": {
+    "sidebar": {
+      "我の小窝~": "https://github.com/narutohyc"
+    }
   },
   "pdf": {
     "pageNumbers": true,
